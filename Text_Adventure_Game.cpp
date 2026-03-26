@@ -1,3 +1,4 @@
+// I am making this project to learn concepts of c++ so there will so many comments related to concepts, why am i posting it if it is a learning project because i want to share my journey nd mistakes.
 #include <iostream>
 #include <string>
 
